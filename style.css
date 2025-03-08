@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(#B3E2FF,#B888F2);
+}
+.r{
+    display: flex;
+    padding: 5px;
+    justify-content: space-around;
+}
+.l{
+    padding: 5px;
+    display: flex;
+    justify-content:center ;
+}
+.d{
+    padding: 5px;
+    display: flex;
+    justify-content:center ;
+}
+.f{
+    padding: 5px;
+    display: flex;
+    justify-content:center ;
+}
+footer{
+
+    color: white;
+    font-size: 20px;
+}
+.po{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid navy;
+    border-top:solid navy ;
+}
+nav a{
+text-decoration: none;
+
+}
