@@ -1,0 +1,48 @@
+<html>
+        
+    <head>
+        <title>Мандри по світу</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+     <header>
+    <h1>Мадри по свту</h1>
+        </header>
+        <nav>
+            <a href="">Про нас</a>
+            <a href="">Пропозиції</a>
+            </nav>
+        
+<main>
+            <h2>Про нас</h2>
+            <div class="po"><img src="//learn.logikaschool.com/uploads/student/2457941/67c2e90d927d9.png"height="250px"width="450px"></div>
+ <h2>Лондон</h2>            
+            <section class="r">
+
+    <p>Лондонангл. London,— столиця Англії та Сполученого Королівства, розташована на річці Темза. Одне з найбільших міст Європи. Площа 1572 км²; у 2021 році населення становило 8 799 728 містян, а з передмістями близько 10 млн.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tower_bridge_London_Twilight_-_November_2006.jpg/800px-Tower_bridge_London_Twilight_-_November_2006.jpg"width="120"height="120px">
+    </section>
+<h3 style="text-align:right">Італія</h3>
+   <section class="l" >
+    <img src="https://learn.logikaschool.com/uploads/student/2457941/67c2e261a9346.jpg"width="120px"height="120px">
+<p>Італія  офіційна назва — Італі́йська Респу́бліка (італ. Repubblica Italiana — держава на півдні Європи, що складається з півострова, відмежованого Альпами та оточеного кількома островами. Країна розташована у південно-центральній Європі і вважається частиною західної Європи[8][9]. Унітарна парламентська республіка зі столицею у місті Рим, що займає територію загальною площею 301 340 км²</p>
+
+</section>
+<h3>Франція</h3>
+   <section class="d">
+<p>Франція офіційна назва — Францу́зька Респу́бліка (фр. République française,  держава, територія якої складається з метрополії в Західній Європі та низки заморських володінь. Територія метрополії простягається з півдня на північ від Середземного моря до Ла-Маншу та Північного моря, а зі сходу на захід — від Рейну до Атлантичного океану.</p>
+    <img src="https://learn.logikaschool.com/uploads/student/2457941/67c2e1c6a3979.jpg"height="120"width="120px">
+</section>
+<h3 style="text-align:right">Китай</h3>
+<section class="f">
+    <img src="https://learn.logikaschool.com/uploads/student/2457941/67c2e379bab0c.jpg"height="120px"width="120px">
+<p>Кита́й, або Хі́н«центральна країна») — культурний регіон і стародавня цивілізація Східної Азії. Китай належить до найбільш прадавніх цивілізацій, яка увібрала у себе велику кількість держав та культур упродовж 6 тисяч років. </p>
+</section>
+</main>
+ <footer>
+            <p class="ok">Номер телефону: +38096748146</p>
+            <p class="ko">Вулиця богдана хмельницького м.Київ</p>
+        </footer>
+    </body>
+
+</html>
